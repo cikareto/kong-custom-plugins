@@ -1,0 +1,10 @@
+client_body_temp
+fastcgi_temp
+logs
+pids
+proxy_temp
+scgi_temp
+ssl
+uwsgi_temp
+.kong_env
+nginx*
